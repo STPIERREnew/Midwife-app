@@ -1,0 +1,152 @@
+body{
+    background-color:#4a4e69;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+.socials li i {
+    color:#c9ada7;
+}
+
+.check{
+    display: none;
+}
+
+.hero{
+    height: 900px;
+    color: #030303;
+}
+.sidebar1{
+    float: left;
+    padding-top: 300px;
+
+} 
+   
+.hero h1{
+    color: rgb(15, 15, 15);
+    font-size: 40px;
+    line-height: 1.6em;
+   
+}
+.hero p{
+    font-size: 20px;
+    font-weight: 200;
+}
+.socials li{
+    display: inline;
+    padding: 5px;
+    align-items: center;
+
+}
+
+.ftr{
+    text-align: center;  
+    margin-top: 600px;
+    
+}
+.ftr{
+    font-weight: 300;
+    font-size: 18px;
+    
+}
+
+
+#hero{
+    height: 900px;
+    color: #f8f4f4;
+    background-color: #9a8c98;
+}
+#sidebar1{
+    float: left;
+    padding-top: 300px;
+    
+
+} 
+#sidebar1 h1{
+    font-weight: 600;
+    
+ 
+}
+   
+#hero h1{
+    color: rgb(252, 248, 248);
+    font-size: 40px;
+    line-height: 1.6em;
+   
+}
+#hero p{
+    font-size: 20px;
+    font-weight: 200;
+}
+.socials li{
+    display: inline;
+    padding: 5px;
+    align-items: center;
+    
+
+}
+#detail ul li{
+    
+    list-style: none;
+}
+#ftr{
+    text-align: center;  
+    margin-top: 40px;
+    margin-bottom: 25px;
+    color: rgb(139, 124, 124);
+}
+#ftr{
+    font-weight: 300;
+    font-size: 18px;
+}
+
+@media(max-width:800px){
+    
+#detail ul{
+    
+    list-style: none;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+    
+    
+   
+}
+#detail ul li{
+    padding: 20px;
+    
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    background-color: #695c67;
+    
+    
+}
+#detail ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+    
+    #box-a{
+        padding-top: 30px;
+        min-height: 250px;
+    }
+    #sidebar1{
+        padding-top: 80px;
+        text-align:center;
+        
+    }
+
+   .socials {
+     
+    margin-right: 40px;
+    
+   } 
+  
+   
+}
+
+
